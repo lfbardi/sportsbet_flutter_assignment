@@ -13,3 +13,9 @@ Get the Dependecies
 Run the project
 
 ```flutter run```
+
+
+# Tested on
+
+> Iphone 14 Pro Max simulator - IOS 16.4 
+> Pixel 5 API 32 - Android 12
